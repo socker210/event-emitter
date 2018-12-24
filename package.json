@@ -1,5 +1,5 @@
 {
-  "name": "event-emitter",
+  "name": "@socker210/event-emitter",
   "version": "1.0.0",
   "main": "lib/index.js",
   "module": "lib/index.es.js",
