@@ -1,0 +1,11 @@
+{
+    "extends": ["standard"],
+    "env": {
+      "jest": true
+    },
+    "rules": {
+      "eol-last": 0,
+      "no-unused-vars": 1,
+      "standard/no-callback-literal": 0
+    }
+}

@@ -1,0 +1,6 @@
+src/
+tests/
+.*
+jest.config.js
+rollup.config.js
+yarn.lock
