@@ -1137,10 +1137,6 @@ cssstyle@^1.0.0:
   dependencies:
     cssom "0.3.x"
 
-custom-error-instance@^2.1.1:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/custom-error-instance/-/custom-error-instance-2.1.1.tgz#3cf6391487a6629a6247eb0ca0ce00081b7e361a"
-
 dashdash@^1.12.0:
   version "1.14.1"
   resolved "https://registry.yarnpkg.com/dashdash/-/dashdash-1.14.1.tgz#853cfa0f7cbe2fed5de20326b8dd581035f6e2f0"
