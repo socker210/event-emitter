@@ -1,6 +1,6 @@
 {
   "name": "@socker210/event-emitter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "lib/index.js",
   "module": "lib/index.es.js",
   "description": "Simple event emitter like a node",
